@@ -1,0 +1,9 @@
+setuptools
+Flask==2.0.1
+tensorflow==2.17.0
+numpy==1.26.4
+Pillow==10.4.0
+gunicorn==20.1.0
+scipy
+Werkzeug==2.0.1
+flask_cors
