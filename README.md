@@ -60,11 +60,6 @@ To retrain the model, you can modify `model_training.py` and execute it locally 
 
 The final model is saved as `best_model.keras`, and class names are saved in `class_names.txt`.
 
-## License
-
-This project is licensed under the MIT License.
-
 ## Acknowledgements
 
 - Stanford Dogs Dataset: [Kaggle Link](https://www.kaggle.com/datasets/jessicali9530/stanford-dogs-dataset).
-- TensorFlow/Keras documentation and tutorials.
